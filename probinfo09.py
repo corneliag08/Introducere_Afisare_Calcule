@@ -1,0 +1,7 @@
+print("problema09")
+nr1 = int(input("Dati numarul unu :"))
+nr2 = int(input("Dati numarul doi :"))
+nr3 = int(input("Dati numarul trei :"))
+print("Date de iesire :" ,nr1 ,  "+" , nr2 , "=", nr1+nr2 )
+print(nr1 ,  "+" , nr3 , "=", nr1+nr3 )
+print(nr3 ,  "+" , nr2 , "=", nr3+nr2 )
