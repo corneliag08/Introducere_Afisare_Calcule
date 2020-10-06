@@ -1,0 +1,5 @@
+print("problema11")
+a=int(input("Numarul de iepuri la inceput de luna:"))
+b=int(input("Numarul de iepuri morti:"))
+c=int(input("Numarul de iepuri nascuti:"))
+print("Date de iesire :" , a-b+c)
